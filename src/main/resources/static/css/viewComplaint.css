@@ -1,0 +1,136 @@
+@charset "ISO-8859-1";
+body {
+	background:
+		url(https://wallpaper.dog/large/5486500.png);
+		background-attachment: fixed;
+		 background-repeat: no-repeat;
+}
+
+.add {
+	margin-left: 89%;
+}
+
+#add {
+	padding: 8px 8px 8px 8px;
+	font-size: 17px;
+}
+
+.btn-danger {
+	color: #fff;
+	background-color: #fd5247;
+	border-color: #fe5549;
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: #fd5247;
+	border-color: #fe5549;
+}
+
+.btn-primary:hover {
+	color: #fff;
+	background-color: #e83931;
+	border-color: #e83931;
+}
+
+h1 {
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.body {
+	margin-top: 2.7%;
+	padding-left: 28%;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	border-radius: 0.5rem;
+	padding-top: 10px;
+	position: relative;
+}
+header{
+    background-color:gray;
+    
+    color:white;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    font-size: 40px;
+   font-family:calibri;
+    position: relative;
+    text-align: center;
+    border-bottom-left-radius:.5rem;
+     border-bottom-right-radius:.5rem;
+   }
+
+.home {
+	margin-left: 54.05%;
+	margin-top: 2%;
+	font-size: 25px;
+}
+
+.a2 {
+	padding: 15px;
+}
+
+a {
+	text-align: left;
+}
+
+.data {
+	font-size: 23px;
+}
+
+.data1 {
+	font-size: 26px;
+}
+
+table {
+	border-collapse: separate;
+	border-radius: 0.5rem;
+}
+
+th {
+	background-color: gray;
+	color: white;
+	font-weight: 500;
+	text-align: center;
+}
+
+.edit {
+	float: right;
+	font-size: 20px;
+	padding-top: 2px;
+}
+
+.mb-4, .my-4 {
+	margin-bottom: .5rem !important;
+}
+
+.col-4 {
+	-ms-flex: 0 0 33.333333%;
+	flex: 0 0 33.333333%;
+	max-width: 90%;
+}
+
+button, input, optgroup, select, textarea {
+	margin: 0;
+	font-family: inherit;
+	font-size: inherit;
+	line-height: inherit;
+}
+
+.add {
+	margin-left: 45%;
+}
+
+#add {
+	padding: 6px 20px 6px 20px;
+	font-size: 20px;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	margin-bottom: .5rem;
+	font-family: inherit;
+	font-weight: 500;
+	line-height: 1.2;
+	color: red;
+}

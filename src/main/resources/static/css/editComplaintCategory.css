@@ -1,0 +1,130 @@
+@charset "ISO-8859-1";
+body {
+	background:
+		url(https://wallpaper.dog/large/5486500.png);
+		background-attachment: fixed;
+		 background-repeat: no-repeat;
+}
+
+header{
+    background-color:gray;
+    
+    color:white;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    font-size: 40px;
+   font-family:calibri;
+    position: relative;
+    text-align: center;
+    border-bottom-left-radius:.5rem;
+     border-bottom-right-radius:.5rem;
+   }
+
+.body {
+	margin-top: 6.5%;
+	margin-left: 45%;
+	margin-right: 25%;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	border-radius: 0.5rem;
+}
+
+.container {
+	width: 200%;
+	margin-left: 28%
+}
+
+input {
+	width: 250%;
+}
+
+.form-control {
+	display: block;
+	width: 200%;
+	height: calc(2.25rem + 10px);
+	font-size: 22px;
+	line-height: 1.5;
+	color: #495057;
+	background-color: #fff;
+	background-clip: padding-box;
+	border: 1px solid #ced4da;
+	border-radius: .3rem;
+	transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+	padding-top: 1px;
+	margin-left:-3%;
+}
+.col-4 {
+    -ms-flex: 0 0 33.333333%;
+    flex: 0 0 33.333333%;
+    max-width: 40.333333%; 
+}
+
+.h1, h1 {
+	padding-bottom: 2%;
+	padding-left: -40%;
+	margin-left:-7%;
+	
+}
+
+button {
+	margin-left: 8%;
+	margin-bottom: 2%;
+	font-size: 10px;
+}
+
+.btn-info {
+	color: #fff;
+	background-color: #fe524a;
+}
+.btn-info:hover {
+	color: #fff;
+	background-color:#e83931;
+	border-color: #e83931;
+}
+
+.back {
+	font-size: 24px;
+	padding-bottom: 2%;
+	padding-left: 14%;
+}
+
+.btn {
+	display: inline-block;
+	font-weight: 400;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	border: 1px solid transparent;
+
+	font-size: 25px;
+	line-height: 1.5;
+	border-radius: .25rem;
+	transition: color .15s ease-in-out, background-color .15s ease-in-out,
+		border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+		padding:5px;
+}
+.home {
+	margin-left: 47.55%;
+	margin-top: 2%;
+	font-size: 25px;
+}
+
+.a2 {
+	padding: 15px;
+}
+
+a {
+
+	text-align: left;
+}
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: red;
+}

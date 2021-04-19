@@ -1,0 +1,180 @@
+@charset "ISO-8859-1";
+body {
+	background:
+		url(https://wallpaper.dog/large/5486500.png);
+		background-attachment: fixed;
+		 background-repeat: no-repeat;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-family: inherit;
+    font-weight: 500;
+    line-height: 1.2;
+    color: red;
+}
+
+header{
+    background-color:gray;
+    
+    color:white;
+    padding-top: 25px;
+    padding-bottom: 15px;
+    font-size: 40px;
+   font-family:calibri;
+    position: relative;
+    text-align: center;
+    border-bottom-left-radius:.5rem;
+     border-bottom-right-radius:.5rem;
+   }
+
+.home {
+	margin-left: 66.2%;
+	margin-top: 2%;
+	font-size: 25px;
+}
+
+.body {
+	margin-top: 1.5%;
+	padding-left: 28%;
+	padding-top: 10px;
+	padding-bottom: 20px;
+	border-radius: 0.5rem;
+	padding-top: 10px;
+}
+
+.container {
+	margin-top: 2.3%;
+	text-align: center;
+}
+
+input {
+	width: 250%;
+}
+
+.form-control {
+	display: block;
+	width: 100%;
+	/* height: calc(2.25rem + 2px); */
+	padding: .375rem .75rem;
+	font-size: 19.5px;
+	line-height: 1.5;
+	color: #495057;
+	background-color: #fff;
+	background-clip: padding-box;
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+	transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+	text-align: center
+}
+
+.h2, h2 {
+	font-size: 2rem;
+	padding-bottom: 2%;
+	padding-left: 2%;
+}
+
+h1 {
+	text-align: center;
+}
+
+button {
+	margin-left: 8%;
+	margin-bottom: 2%;
+	font-size: 10px;
+}
+
+.back {
+	font-size: 20px;
+	padding-bottom: 2%;
+	padding-left: 8%;
+}
+
+.btn {
+	display: inline-block;
+	font-weight: 400;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	border: 1px solid transparent;
+	padding: .375rem .75rem;
+	font-size: 20px;
+	line-height: 1.5;
+	border-radius: .25rem;
+	transition: color .15s ease-in-out, background-color .15s ease-in-out,
+		border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: #4e4649a3;
+	border-color: gray;
+	margin-bottom:10px;
+}
+
+.btn-primary:hover {
+	color: #fff;
+	background-color: dimgrey;
+	border-color: gray;
+}
+
+.btn-danger {
+	color: #fff;
+	background-color: #fd5247;
+	border-color: #fe5549;
+}
+
+.a2 {
+	padding: 15px;
+}
+
+a {
+	text-align: left;
+}
+
+th {
+	background-color: gray;
+	color: white;
+	font-weight: 500;
+}
+
+table {
+	border-collapse: separate;
+	border-radius: 0.5rem;
+}
+
+.data {
+	font-size: 23px;
+}
+
+.add {
+	margin-left: 86.5%;
+}
+
+#add {
+	padding: 8px 8px 8px 8px;
+	font-size: 20px;
+}
+
+.data1 {
+	font-size: 26px;
+}
+.a1{
+	padding-left:100px;
+}
+#myInput {
+  background-image: url('/css/searchicon.png'); /* Add a search icon to input */
+  background-position: 10px 12px; /* Position the search icon */
+  background-repeat: no-repeat; /* Do not repeat the icon image */
+  width: 30%; /* Full-width */
+  font-size: 16px; /* Increase font-size */
+  padding: 12px 20px 12px 40px; /* Add some padding */
+  border: 1px solid #ddd; /* Add a grey border */
+  margin-bottom: 12px; /* Add some space below the input */
+  margin-left:70%;
+  border-radius:0.4rem
+}

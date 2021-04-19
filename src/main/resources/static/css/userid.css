@@ -1,0 +1,39 @@
+
+@charset "ISO-8859-1";
+
+body {
+	background:
+		url(https://wallpaper.dog/large/5486500.png);
+		background-attachment: fixed;
+		 background-repeat: no-repeat;
+}
+
+h1 {
+    padding-top: 300px;
+    font-size: 40px;
+    font-weight: 200;
+    font-family: calibri;
+    margin-left:1%
+}
+
+.a2 {
+    margin-top: -3%;
+    padding-top: 5%;
+    font-size: 28px;
+    margin-left: 0;
+    font-family: calibri;
+    color: blue;
+}
+
+header {
+	background-color: transparent;
+	color: black;
+	padding-top: 30px;
+	padding-bottom: 15px;
+	font-size: 40px;
+	padding-right: 40px;
+	padding-left: 20px;
+	position: relative;
+	text-align: center;
+	font-family:calibri
+}
